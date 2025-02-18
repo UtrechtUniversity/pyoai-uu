@@ -22,5 +22,5 @@ setup(
     zip_safe=False,
     license='BSD',
     keywords='OAI-PMH xml archive',
-    install_requires=["lxml==4.8.0", 'six'],
+    install_requires=["lxml==4.9.1", 'six'],
 )
